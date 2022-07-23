@@ -2,7 +2,7 @@
 
 This is the back-end rails API of the Hello world app.
 
-Watch the front-end version [here]()
+Watch the front-end version [here](https://github.com/John-Arboleda/hello_react_front_end)
 
 ## Built With
 
